@@ -2,7 +2,7 @@ name: dimensioncontrol
 version: '1.0-SNAPSHOT'
 main: me.maxgim234.dimensioncontrol.DimensionControl
 api-version: '1.21'
-authors: [ maxgim234 ]
+authors: maxgim234
 
 commands:
   end:
