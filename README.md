@@ -29,3 +29,9 @@ Zero configuration required — just drop it in your plugins folderFeatures:
 ➤ dimensioncontrol.bypass.nether – Bypass Nether restrictions only
 
 (Operators bypass by default — no extra setup required)
+
+
+### Other links
+modrinth: https://modrinth.com/plugin/dimension-control
+spigot: https://www.spigotmc.org/resources/dimension-control-disable-and-enable-end-and-nether.126103/
+discord: https://discord.gg/YpKbGnV5Gc
